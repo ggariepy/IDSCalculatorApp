@@ -1,0 +1,15 @@
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\IDS_Calculator.csprojResolveAssemblyReference.cache
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\bin\Debug\IDS_Calculator.dll
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\bin\Debug\IDS_Calculator.pdb
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\bin\Debug\IDS_Calculator.IDS_Calculator.apk
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\bin\Debug\IDS_Calculator.IDS_Calculator-Signed.apk
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\IDS_Calculator.dll
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\IDS_Calculator.pdb
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\android\bin\IDS_Calculator.IDS_Calculator.apk
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\res\layout\main.xml
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\res\values\strings.xml
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\res\drawable\icon.png
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\R.cs.flag
+c:\users\geoff\documents\visual studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\uploadflags.txt
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\IDS_Calculator.dll.mdb
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\bin\Debug\IDS_Calculator.dll.mdb

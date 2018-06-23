@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/tableLayout1">
+    <TextView
+        p1:layout_column="0"
+        p1:textSize="15pt"
+        p1:gravity="center_vertical|right"
+        p1:id="@+id/txtOutput" />
+    <TableRow
+        p1:id="@+id/tableRow1">
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow2">
+        <Button
+            p1:text="CE"
+            p1:layout_column="0"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonCE" />
+        <Button
+            p1:text="C"
+            p1:layout_column="1"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonC" />
+        <Button
+            p1:text="x^2"
+            p1:layout_column="2"
+            p1:textSize="10pt"
+            p1:id="@+id/buttonSquare" />
+        <Button
+            p1:layout_column="3"
+            p1:text="/"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonDiv" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow3">
+        <Button
+            p1:text="7"
+            p1:layout_column="0"
+            p1:textSize="12pt"
+            p1:id="@+id/button7" />
+        <Button
+            p1:text="8"
+            p1:layout_column="1"
+            p1:textSize="12pt"
+            p1:id="@+id/button8" />
+        <Button
+            p1:text="9"
+            p1:layout_column="2"
+            p1:textSize="12pt"
+            p1:id="@+id/button9" />
+        <Button
+            p1:text="x"
+            p1:layout_column="3"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonTimes" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow4">
+        <Button
+            p1:text="4"
+            p1:layout_column="0"
+            p1:textSize="12pt"
+            p1:id="@+id/button4" />
+        <Button
+            p1:text="5"
+            p1:layout_column="1"
+            p1:textSize="12pt"
+            p1:id="@+id/button5" />
+        <Button
+            p1:text="6"
+            p1:layout_column="2"
+            p1:textSize="12pt"
+            p1:id="@+id/button6" />
+        <Button
+            p1:text="+"
+            p1:layout_column="3"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonPlus" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow5">
+        <Button
+            p1:text="1"
+            p1:layout_column="0"
+            p1:textSize="12pt"
+            p1:id="@+id/button1" />
+        <Button
+            p1:text="2"
+            p1:layout_column="1"
+            p1:textSize="12pt"
+            p1:id="@+id/button2" />
+        <Button
+            p1:text="3"
+            p1:layout_column="2"
+            p1:textSize="12pt"
+            p1:id="@+id/button3" />
+        <Button
+            p1:text="-"
+            p1:layout_column="3"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonMinus" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow6">
+        <Button
+            p1:text="±"
+            p1:layout_column="0"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonPlusMinus" />
+        <Button
+            p1:text="0"
+            p1:layout_column="1"
+            p1:textSize="12pt"
+            p1:id="@+id/button0" />
+        <Button
+            p1:text="."
+            p1:layout_column="2"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonDot" />
+        <Button
+            p1:text="="
+            p1:layout_column="3"
+            p1:textSize="12pt"
+            p1:id="@+id/buttonEquals" />
+    </TableRow>
+</TableLayout>

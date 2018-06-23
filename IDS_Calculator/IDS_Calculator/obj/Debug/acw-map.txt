@@ -1,0 +1,4 @@
+IDS_Calculator.MainActivity, IDS_Calculator;md592d74ec4e8d2f989e09699eb93c44fdd.MainActivity
+IDS_Calculator.MainActivity, IDS_Calculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592d74ec4e8d2f989e09699eb93c44fdd.MainActivity
+IDS_Calculator.MainActivity;md592d74ec4e8d2f989e09699eb93c44fdd.MainActivity
+ids_calculator.MainActivity;md592d74ec4e8d2f989e09699eb93c44fdd.MainActivity

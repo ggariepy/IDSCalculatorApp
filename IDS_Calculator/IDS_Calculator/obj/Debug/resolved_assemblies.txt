@@ -1,0 +1,9 @@
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\IDS_Calculator.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\mscorlib.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\System.Core.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\System.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\System.Xml.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\geoff\Documents\Visual Studio 2015\Projects\IDS_Calculator\IDS_Calculator\obj\Debug\assemblies\System.ServiceModel.Internals.dll
